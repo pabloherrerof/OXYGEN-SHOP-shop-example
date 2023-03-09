@@ -1,3 +1,7 @@
+
+
+
+
 let fetchAPI = async (productNumberToGet) =>  {
     try{
         let url = `https://fakerapi.it/api/v1/products?_quantity=${productNumberToGet}&_taxes=12&_categories_type=uuid`;
