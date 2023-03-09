@@ -52,6 +52,11 @@
   margin-top: 2%;
 }
 
+#sell-more a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
 .tilt-in-top-1 {
   animation: tilt-in-top-1 0.6s ease-out both;
 }

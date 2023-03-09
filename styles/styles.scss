@@ -56,8 +56,13 @@
     border: 0;
     margin-bottom: 8vh;
     margin-top: 2%;
-   
 }
+
+#sell-more a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
 .tilt-in-top-1 {
     -webkit-animation: tilt-in-top-1 0.6s ease-out both;
             animation: tilt-in-top-1 0.6s ease-out both;
